@@ -127,7 +127,11 @@ window.PORTFOLIO_DATA = {
           url: "https://github.com/alinakhla",
           referenceLabel: "GitHub"
         },
-        "Ziad Ehab",
+        {
+          name: "Ziad Ehab",
+          url: "https://github.com/ziadEhab676",
+          referenceLabel: "GitHub"
+        },
         "Naif el-kady",
         "Ahmed Ashraf"
       ],
