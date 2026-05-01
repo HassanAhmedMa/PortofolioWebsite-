@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Hassan Ahmed's software engineering portfolio featuring projects, testing experience, technical skills, and contact details."
+    />
+    <title>Hassan Ahmed | Software Engineer Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="home">
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="#home">
+          <span class="brand-mark">HA</span>
+          <span class="brand-copy">
+            <strong>Hassan Ahmed</strong>
+            <small>Software Engineer</small>
+          </span>
+        </a>
+        <nav class="topnav" aria-label="Primary">
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#skills">Skills</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero section" id="home">
+          <div class="hero-copy reveal">
+            <p class="eyebrow">My personal portofolio ;)</p>
+            <div id="hero-content"></div>
+            <div class="hero-actions" id="hero-actions"></div>
+          </div>
+          <div class="hero-visual reveal">
+            <div class="portrait-frame">
+              <div class="portrait-glow"></div>
+              <img id="profile-photo" alt="Portrait of Hassan Ahmed" />
+            </div>
+            <div class="hero-card" id="hero-highlights"></div>
+          </div>
+        </section>
+
+        <section class="about section reveal" id="about">
+          <div class="section-heading">
+            <p class="eyebrow">Who I Am</p>
+            <h2>Software engineering with a testing mindset and a product eye.</h2>
+          </div>
+          <div class="about-grid">
+            <article class="panel" id="about-panel"></article>
+            <aside class="panel info-stack" id="quick-facts"></aside>
+          </div>
+        </section>
+
+        <section class="projects section" id="projects">
+          <div class="section-heading reveal">
+            <p class="eyebrow">Selected Work</p>
+            <h2>Projects arranged as reusable case studies that can keep growing.</h2>
+          </div>
+          <div class="project-grid" id="project-grid"></div>
+        </section>
+
+        <section class="skills section" id="skills">
+          <div class="section-heading reveal">
+            <p class="eyebrow">Skills Snapshot</p>
+            <h2>Quality assurance, software engineering, data work, and UI thinking.</h2>
+          </div>
+          <div class="skills-marquee reveal">
+            <div class="skills-track" id="skills-track"></div>
+          </div>
+          <div class="skills-grid" id="skills-grid"></div>
+        </section>
+
+        <section class="contact section" id="contact">
+          <div class="section-heading reveal">
+            <p class="eyebrow">Contact + Resume</p>
+            <h2>Everything a recruiter, teammate, or client should need in one place.</h2>
+          </div>
+          <div class="contact-grid">
+            <article class="panel reveal" id="contact-card"></article>
+            <article class="panel reveal" id="links-card"></article>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <p id="footer-copy"></p>
+        <div class="footer-links" id="footer-links"></div>
+      </footer>
+    </div>
+
+    <script src="site-data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
