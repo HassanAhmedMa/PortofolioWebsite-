@@ -139,79 +139,8 @@ window.PORTFOLIO_DATA = {
         }
       ]
     },
-    {
-      slug: "digital-blocks-testing-case-study",
-      title: "Digital Blocks Testing Case Study",
-      subtitle: "Manual testing, test execution, and bug reporting framed as a portfolio-ready case study.",
-      summary:
-        "A QA-focused project page that presents hands-on testing practice through structured cases, execution notes, defect tracking, and regression thinking.",
-      year: "Internship Work",
-      projectType: "Team Collaboration",
-      role: "Software Tester Intern",
-      deliverable: "Testing documentation and QA workflow case study",
-      outcome:
-        "Showcases testing discipline across manual verification, defect reporting, and repeatable execution habits shaped during internship work.",
-      problem:
-        "The key goal was learning how to examine application behavior systematically and convert findings into actionable documentation for the team.",
-      approach:
-        "I organized the experience like a project story, highlighting test cases, bug tracking, and regression coverage so the page can communicate both process and impact.",
-      languages: ["SQL"],
-      libraries: ["Microsoft Excel", "Google Forms"],
-      skillsLearned: [
-        "Manual testing",
-        "Regression testing",
-        "Bug report writing",
-        "Test execution",
-        "User acceptance testing"
-      ],
-      contributors: ["Digital Blocks QA Team"],
-      media: [
-        {
-          type: "image",
-          src: "assets/projects/testing-case-study/workflow.svg",
-          alt: "Testing workflow board for the Digital Blocks case study"
-        },
-        {
-          type: "image",
-          src: "assets/projects/testing-case-study/reports.svg",
-          alt: "Testing reports and bug matrix concept for the Digital Blocks case study"
-        }
-      ]
-    },
-    {
-      slug: "student-data-insights-lab",
-      title: "Student Data Insights Lab",
-      subtitle: "A flexible spot for ML, SQL, and structured-data experiments from university work.",
-      summary:
-        "A reusable case-study format for projects involving machine learning, structured data, SQL practice, and analysis-driven problem solving.",
-      year: "Academic Exploration",
-      projectType: "Personal Project",
-      role: "Software Engineer",
-      deliverable: "Data and machine learning experiments",
-      outcome:
-        "Captures the analytical side of my portfolio through structured datasets, query logic, and experimentation with machine learning concepts.",
-      problem:
-        "University data work often lives in separate notebooks or assignments, so this project format helps bundle those ideas into a cleaner story that is easier to present.",
-      approach:
-        "I framed the work around inputs, analysis steps, and insights so future SQL and ML projects can be dropped into the same structure without redesigning the website.",
-      languages: ["Python", "SQL"],
-      libraries: ["Microsoft Azure Machine Learning"],
-      skillsLearned: [
-        "Structured data handling",
-        "Query thinking",
-        "Statistical analysis",
-        "Machine learning experimentation",
-        "Presenting technical findings"
-      ],
-      contributors: [],
-      media: [
-        {
-          type: "image",
-          src: "assets/projects/data-insights/overview.svg",
-          alt: "Overview panel for a student data insights project"
-        }
-      ]
-    },
+    
+    
     {
       slug: "Advanced-Google-Dinosaur",
       title: "2D Game",
