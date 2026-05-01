@@ -118,7 +118,7 @@ window.PORTFOLIO_DATA = {
         "State-based navigation",
         "Login flow design",
         "Database Connection",
-        "Front-Layer login validation",
+        "Front-Layer login validation", 
         "Application structuring"
       ],
       contributors: [{
