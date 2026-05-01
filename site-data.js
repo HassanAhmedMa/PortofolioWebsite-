@@ -118,14 +118,19 @@ window.PORTFOLIO_DATA = {
         "State-based navigation",
         "Login flow design",
         "Database Connection",
-        "Front-Layer login validation", 
+        "Front-Layer login validation",
         "Application structuring"
       ],
-      contributors: [{
-        name: "Ali Mohamed",
-        url: "https://github.com/alinakhla",
-        referenceLabel: "GitHub"
-      }, , "Ziad Ehab", "Naif el-kady", "Ahmed Ashraf"],
+      contributors: [
+        {
+          name: "Ali Mohamed",
+          url: "https://github.com/alinakhla",
+          referenceLabel: "GitHub"
+        },
+        "Ziad Ehab",
+        "Naif el-kady",
+        "Ahmed Ashraf"
+      ],
       media: [
         {
           type: "image",
@@ -139,8 +144,8 @@ window.PORTFOLIO_DATA = {
         }
       ]
     },
-     
-    
+
+
     {
       slug: "Advanced-Google-Dinosaur",
       title: "2D Game",
