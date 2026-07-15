@@ -1,16 +1,16 @@
 <svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="800" rx="40" fill="#091413"/>
+  <rect width="1280" height="800" rx="40" fill="#0f0709"/>
   <rect x="38" y="38" width="1204" height="724" rx="32" fill="#133127"/>
-  <rect x="96" y="96" width="1088" height="84" rx="22" fill="#285A48"/>
-  <rect x="124" y="120" width="274" height="36" rx="18" fill="#B0E4CC"/>
+  <rect x="96" y="96" width="1088" height="84" rx="22" fill="#5c1622"/>
+  <rect x="124" y="120" width="274" height="36" rx="18" fill="#d4af37"/>
   <rect x="96" y="224" width="278" height="444" rx="28" fill="#0E201D"/>
-  <rect x="406" y="224" width="382" height="212" rx="28" fill="#408A71"/>
-  <rect x="820" y="224" width="364" height="212" rx="28" fill="#0E201D" stroke="#B0E4CC" stroke-opacity="0.22"/>
+  <rect x="406" y="224" width="382" height="212" rx="28" fill="#8b1e2e"/>
+  <rect x="820" y="224" width="364" height="212" rx="28" fill="#0E201D" stroke="#d4af37" stroke-opacity="0.22"/>
   <rect x="406" y="456" width="778" height="212" rx="28" fill="#0E201D"/>
-  <circle cx="238" cy="332" r="70" fill="#B0E4CC" fill-opacity="0.84"/>
-  <rect x="144" y="446" width="164" height="18" rx="9" fill="#ECFFF5"/>
-  <rect x="144" y="482" width="128" height="18" rx="9" fill="#ECFFF5" fill-opacity="0.44"/>
-  <rect x="144" y="556" width="164" height="44" rx="22" fill="#408A71"/>
-  <text x="440" y="318" fill="#091413" font-family="Arial, sans-serif" font-size="42" font-weight="700">Food Ordering UI</text>
-  <text x="438" y="530" fill="#ECFFF5" font-family="Arial, sans-serif" font-size="34" font-weight="700">Roles, menus, orders, and state changes</text>
+  <circle cx="238" cy="332" r="70" fill="#d4af37" fill-opacity="0.84"/>
+  <rect x="144" y="446" width="164" height="18" rx="9" fill="#fdfaf4"/>
+  <rect x="144" y="482" width="128" height="18" rx="9" fill="#fdfaf4" fill-opacity="0.44"/>
+  <rect x="144" y="556" width="164" height="44" rx="22" fill="#8b1e2e"/>
+  <text x="440" y="318" fill="#0f0709" font-family="Arial, sans-serif" font-size="42" font-weight="700">Food Ordering UI</text>
+  <text x="438" y="530" fill="#fdfaf4" font-family="Arial, sans-serif" font-size="34" font-weight="700">Roles, menus, orders, and state changes</text>
 </svg>

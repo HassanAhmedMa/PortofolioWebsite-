@@ -1,12 +1,12 @@
 <svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="800" rx="40" fill="#091413"/>
+  <rect width="1280" height="800" rx="40" fill="#0f0709"/>
   <rect x="44" y="44" width="1192" height="712" rx="32" fill="#143028"/>
   <rect x="118" y="110" width="1044" height="124" rx="28" fill="#0E201D"/>
   <rect x="118" y="274" width="660" height="382" rx="28" fill="#0E201D"/>
-  <rect x="818" y="274" width="344" height="174" rx="28" fill="#408A71"/>
-  <rect x="818" y="482" width="344" height="174" rx="28" fill="#0E201D" stroke="#B0E4CC" stroke-opacity="0.24"/>
-  <path d="M170 378H726" stroke="#285A48" stroke-width="18" stroke-linecap="round"/>
-  <path d="M170 444H680" stroke="#285A48" stroke-width="18" stroke-linecap="round"/>
-  <path d="M170 510H624" stroke="#285A48" stroke-width="18" stroke-linecap="round"/>
-  <text x="154" y="188" fill="#ECFFF5" font-family="Arial, sans-serif" font-size="34" font-weight="700">Bug reports, test logs, and regression tracking</text>
+  <rect x="818" y="274" width="344" height="174" rx="28" fill="#8b1e2e"/>
+  <rect x="818" y="482" width="344" height="174" rx="28" fill="#0E201D" stroke="#d4af37" stroke-opacity="0.24"/>
+  <path d="M170 378H726" stroke="#5c1622" stroke-width="18" stroke-linecap="round"/>
+  <path d="M170 444H680" stroke="#5c1622" stroke-width="18" stroke-linecap="round"/>
+  <path d="M170 510H624" stroke="#5c1622" stroke-width="18" stroke-linecap="round"/>
+  <text x="154" y="188" fill="#fdfaf4" font-family="Arial, sans-serif" font-size="34" font-weight="700">Bug reports, test logs, and regression tracking</text>
 </svg>

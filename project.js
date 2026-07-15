@@ -18,7 +18,10 @@
   root.innerHTML = `
     <section class="project-shell">
       <div class="project-headline reveal">
-        <a class="ghost-link" href="index.html#projects">Back to portfolio</a>
+        <div style="display: flex; gap: 12px; align-items: center; margin-bottom: 24px; flex-wrap: wrap;">
+          <a class="ghost-link" href="index.html#projects" style="margin-top: 0;">Back to portfolio</a>
+          ${project.projectUrl ? `<a class="button-link" href="${project.projectUrl}" target="_blank" rel="noreferrer" style="min-height: 48px; margin-top: 0; display: inline-flex; align-items: center; justify-content: center; padding: 0 24px;">${project.projectUrlLabel || "Visit Live Page"}</a>` : ""}
+        </div>
         <div>
           <p class="eyebrow">${project.projectType}</p>
           <h1>${project.title}</h1>
